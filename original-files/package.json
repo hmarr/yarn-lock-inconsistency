@@ -7,7 +7,7 @@
     "lodash": "^4.17.4",
     "query-string": "^4.3.4",
     "raven-js": "^3.15.0",
-    "react": "^15.5.4",
+    "react": "^15.6.1",
     "react-addons-css-transition-group": "^15.5.2",
     "react-dom": "^15.5.4",
     "react-icons": "^2.2.5",
